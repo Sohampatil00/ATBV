@@ -2,5 +2,4 @@
 Insert an array and see its binary tree
 
 ## Screenshots
-
-![ss1](([https://ibb.co/p7FzwFZ](https://i.ibb.co/294th4P/Screenshot-2026-01-13-101800.png)))
+<img width="2631" height="1467" alt="image" src="https://github.com/user-attachments/assets/a543d8b8-dfe7-409d-902e-da91c6cd5592" />
